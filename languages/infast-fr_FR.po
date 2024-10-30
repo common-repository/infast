@@ -1,0 +1,361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: INFast pour WooCommerce\n"
+"POT-Creation-Date: 2024-07-12 12:02+0200\n"
+"PO-Revision-Date: 2024-07-12 12:07+0200\n"
+"Last-Translator: GOBERT Mathieu <dev@intia.fr>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: infast-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-infast-woocommerce-admin-settings.php:52
+#: admin/class-infast-woocommerce-admin-settings.php:78
+msgid "INFast Parameters"
+msgstr "Paramètres INFast"
+
+#: admin/class-infast-woocommerce-admin-settings.php:85
+msgid "Client ID"
+msgstr "Client ID"
+
+#: admin/class-infast-woocommerce-admin-settings.php:93
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: admin/class-infast-woocommerce-admin-settings.php:101
+msgid "Send invoices automatically by email?"
+msgstr "Envoyer les factures automatiquement par e-mail ?"
+
+#: admin/class-infast-woocommerce-admin-settings.php:109
+msgid "Send a copy of the emails to this address"
+msgstr "Envoyer une copie des e-mails à cette adresse"
+
+#: admin/class-infast-woocommerce-admin-settings.php:117
+msgid "Import WooCommerce items without description into INFast"
+msgstr "Importer les articles WooCommerce sans leur description dans INFast"
+
+#: admin/class-infast-woocommerce-admin-settings.php:125
+msgid "Select the order status that triggers conversion to an INFast invoice"
+msgstr ""
+"Sélectionner les statuts des commandes qui déclenchent la conversion en "
+"facture INFast"
+
+#: admin/class-infast-woocommerce-admin-settings.php:257
+msgid "Find your API keys in INFast"
+msgstr "Retrouver vos clés d’API dans INFast"
+
+#: admin/class-infast-woocommerce-admin-settings.php:322
+msgid "INFast WooCommerce"
+msgstr "INFast WooCommerce"
+
+#: admin/class-infast-woocommerce-admin-settings.php:325
+msgid ""
+"INFast is a Web application that lets you easily create quotes and invoices."
+msgstr ""
+"INFast est une application web qui vous permet de créer simplement des devis "
+"et factures."
+
+#: admin/class-infast-woocommerce-admin-settings.php:326
+msgid "For more information: "
+msgstr "Pour plus d’informations : "
+
+#: admin/class-infast-woocommerce-admin-settings.php:326
+msgid "Click here."
+msgstr "Cliquez ici."
+
+#: admin/class-infast-woocommerce-admin-settings.php:328
+msgid ""
+"With INFast WooCommerce, your customers and items are automatically "
+"synchronized in INFast."
+msgstr ""
+"Avec INFast WooCommerce vos clients et articles se synchronisent "
+"automatiquement dans INFast."
+
+#: admin/class-infast-woocommerce-admin-settings.php:329
+msgid "When an order is validated and paid, an invoice is created in INFast."
+msgstr ""
+"Lorsqu’une commande est validée et payée, une facture est créée dans INFast."
+
+#: admin/class-infast-woocommerce-admin-settings.php:331
+msgid "To use this plugin, you need an INFast account."
+msgstr "Pour utiliser cette extension, vous devez disposer d’un compte INFast."
+
+#: admin/class-infast-woocommerce-admin-settings.php:332
+msgid "If you don’t have an INFast account, you can create one by"
+msgstr "Si vous n’avez pas de compte INFast, vous pouvez en créer un en"
+
+#: admin/class-infast-woocommerce-admin-settings.php:332
+msgid "clicking here."
+msgstr "cliquant ici."
+
+#: admin/class-infast-woocommerce-admin-settings.php:334
+msgid "Would you like to discuss your project? "
+msgstr "Vous souhaitez discuter de votre projet ? "
+
+#: admin/class-infast-woocommerce-admin-settings.php:335
+msgid "Book an appointment"
+msgstr "Réservez un rendez-vous"
+
+#: admin/class-infast-woocommerce-admin-settings.php:343
+msgid ""
+"WooCommerce is not activated. Please activate WooCommerce to use this plugin."
+msgstr ""
+"WooCommerce n’est pas activé. Veuillez activer WooCommerce pour utiliser "
+"cette extension."
+
+#: admin/class-infast-woocommerce-admin-settings.php:360
+msgid "Test the connection"
+msgstr "Tester la connexion"
+
+#: admin/class-infast-woocommerce-admin-settings.php:364
+msgid "Synchronize products"
+msgstr "Synchroniser les produits"
+
+#: admin/class-infast-woocommerce-admin-settings.php:365
+msgid "Start synchronization"
+msgstr "Démarrer la synchronisation"
+
+#: admin/class-infast-woocommerce-admin-settings.php:369
+msgid "Unlink WooCommerce products from INFast items"
+msgstr "Délier les produits WooCommerce des articles INFast"
+
+#: admin/class-infast-woocommerce-admin-settings.php:370
+msgid "Unlink"
+msgstr "Délier"
+
+#: admin/class-infast-woocommerce-admin-settings.php:424
+msgid "INFast ID"
+msgstr "INFast ID"
+
+#: admin/class-infast-woocommerce-admin.php:211
+#: admin/class-infast-woocommerce-admin.php:228
+msgid "Click here to see the invoice."
+msgstr "Cliquez ici pour voir la facture."
+
+#: admin/class-infast-woocommerce-admin.php:247
+msgid "Click here to view the invoice in INFast."
+msgstr "Cliquez ici pour voir la facture dans INFast."
+
+#: admin/class-infast-woocommerce-admin.php:271
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/infast-api/class-infast-woocommerce-customer-api.php:46
+msgid ""
+"INFast API - Failed to create/update client, check if « Client ID » and « "
+"Client Secret » are valid in the INFast WooCommerce plugin configuration."
+msgstr ""
+"INFast API - Échec lors de la création/mise à jour du client, vérifier si « "
+"Client ID » et « Client Secret » sont valides dans la configuration de "
+"l’extension INFast WooCommerce."
+
+#: includes/infast-api/class-infast-woocommerce-customer-api.php:87
+msgid "INFast API - Client creation/update failed. Authentication failed."
+msgstr ""
+"INFast API - Échec lors de la création/mise à jour du client. "
+"Authentification incorrecte."
+
+#: includes/infast-api/class-infast-woocommerce-customer-api.php:106
+msgid "INFast API - Failed to create/update client. "
+msgstr "INFast API - Échec lors de la création/mise à jour du client. "
+
+#: includes/infast-api/class-infast-woocommerce-customer-api.php:114
+msgid "INFast API - Client creation/update: "
+msgstr "INFast API - Création/mise à jour du client : "
+
+#: includes/infast-api/class-infast-woocommerce-customer-api.php:114
+#: includes/infast-api/class-infast-woocommerce-document-api.php:307
+#: includes/infast-api/class-infast-woocommerce-document-api.php:532
+msgid "INFast Link"
+msgstr "Lien INFast"
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:259
+msgid ""
+"INFast API - Failed to create the draft invoice, check if « Client ID » and "
+"« Client Secret » are valid in the INFast WooCommerce plugin configuration."
+msgstr ""
+"INFast API - Échec lors de la création de la facture brouillon, vérifier si "
+"« Client ID » et « Client Secret » sont valides dans la configuration de "
+"l’extension INFast WooCommerce."
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:266
+msgid ""
+"INFast API - Failed to create draft invoice. No product or shipping costs on "
+"invoice."
+msgstr ""
+"INFast API - Échec lors de la création de la facture brouillo. Aucun produit "
+"ou frais de port à facturer."
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:292
+msgid "INFast API - Failed to create draft invoice. Authentication failed."
+msgstr ""
+"INFast API - Échec lors de la création de la facture brouillon. "
+"Authentification incorrecte."
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:299
+msgid "INFast API - Failed to create draft invoice. "
+msgstr "INFast API - Échec lors de la création de la facture brouillon."
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:307
+msgid "INFast API - Creating a draft invoice: "
+msgstr "INFast API - Création de la facture brouillon : "
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:493
+msgid ""
+"INFast API - Failed to validate draft invoice, check if « Client ID » and « "
+"Client Secret » are valid in the INFast WooCommerce plugin configuration."
+msgstr ""
+"INFast API - Échec lors de la validation de la facture brouillon, vérifier "
+"si « Client ID » et « Client Secret » sont valides dans la configuration de "
+"l’extension INFast WooCommerce."
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:518
+msgid "INFast API - Failed to validate invoice. Authentication failed."
+msgstr "INFast API - Échec lors de la validation de la facture. "
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:525
+msgid "INFast API - Failed to validate invoice. "
+msgstr "INFast API - Échec lors de la validation de la facture. "
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:532
+msgid "INFast API - Invoice validated: "
+msgstr "INFast API - Validation de la facture : "
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:554
+msgid ""
+"Failed to add payment on invoice. Check if « Client ID » and « Client Secret "
+"» are valid in the INFast WooCommerce plugin configuration."
+msgstr ""
+"INFast API - Échec lors de la validation de la facture brouillon, vérifier "
+"si « Client ID » et « Client Secret » sont valides dans la configuration de "
+"l’extension INFast WooCommerce."
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:582
+msgid "INFast API - Failed to add payment on invoice. Authentication failed."
+msgstr ""
+"INFast API - Échec lors de la création de la facture brouillon. "
+"Authentification incorrecte."
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:589
+msgid "INFast API - Failed to add payment on invoice. "
+msgstr "INFast API - Échec lors de la validation de la facture. "
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:594
+msgid "INFast API - Invoice paid"
+msgstr "INFast API - Facture payée"
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:632
+msgid ""
+"INFast API - Failed to send invoice by email, check that « Client ID » and « "
+"Client Secret » are valid in the INFast WooCommerce plugin configuration."
+msgstr ""
+"INFast API - Échec lors de l’envoi de la facture par e-mail, vérifier si « "
+"Client ID » et « Client Secret » sont valides dans la configuration de "
+"l’extension INFast WooCommerce."
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:662
+msgid "INFast API - Failed to send invoice by email. Authentication failed."
+msgstr ""
+"INFast API - Échec lors de l’envoi de la facture par e-mail. "
+"Authentification incorrecte."
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:669
+msgid "INFast API - Failed to send invoice by email. "
+msgstr "INFast API - Échec lors de l’envoi de la facture par e-mail. "
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:675
+msgid "INFast API - Document sent by email"
+msgstr "INFast API - Document envoyé par e-mail"
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:675
+msgid "INFast-INBox Link"
+msgstr "Lien INFast-INBox"
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:712
+msgid ""
+"INFast API - Failed to delete draft invoice, check if « Client ID » and « "
+"Client Secret » are valid in the INFast WooCommerce plugin configuration."
+msgstr ""
+"INFast API - Échec lors de la création de la facture brouillon, vérifier si "
+"« Client ID » et « Client Secret » sont valides dans la configuration de "
+"l’extension INFast WooCommerce."
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:741
+msgid "INFast API - Failed to delete draft invoice. Authentication failed."
+msgstr ""
+"INFast API - Échec lors de la suppression de la facture brouillon. "
+"Authentification incorrecte."
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:748
+msgid "INFast API - Failed to delete draft invoice. "
+msgstr "INFast API - Échec lors de la suppression de la facture brouillon. "
+
+#: includes/infast-api/class-infast-woocommerce-document-api.php:752
+msgid "INFast API - Draft invoice deleted."
+msgstr "INFast API - Facture en brouillon supprimée."
+
+#. Plugin Name of the plugin/theme
+msgid "INFast for WooCommerce"
+msgstr "INFast pour WooCommerce"
+
+#. Plugin URI of the plugin/theme
+msgid "https://intia.fr/fr/plugin-woocommerce"
+msgstr "https://intia.fr/fr/plugin-woocommerce"
+
+#. Description of the plugin/theme
+msgid ""
+"Create and email compliant invoices automatically with every order placed on "
+"your WooCommerce e-shop."
+msgstr ""
+"Créez et envoyez par e-mail des factures conformes automatiquement à chaque "
+"commande passée sur votre e-boutique WooCommerce."
+
+#. Author of the plugin/theme
+msgid "INTIA"
+msgstr "INTIA"
+
+#. Author URI of the plugin/theme
+msgid "https://intia.fr"
+msgstr "https://intia.fr"
+
+#~ msgid "INFast API - Invoice validation failure: incorrect authentication."
+#~ msgstr ""
+#~ "INFast API - Échec lors de la validation de la facture : authentification "
+#~ "incorrecte."
+
+#~ msgid ""
+#~ "INFast API - Invoice payment failure, check if \"Client ID\" and \"Client "
+#~ "Secret\" are valid in the INFast WooCommerce plugin configuration."
+#~ msgstr ""
+#~ "INFast API - Échec lors du paiement de la facture, vérifier si \"Client ID"
+#~ "\" et \"Client Secret\" sont valides dans la configuration de l’extension "
+#~ "INFast WooCommerce."
+
+#~ msgid "INFast API - Invoice payment failure: incorrect authentication."
+#~ msgstr ""
+#~ "INFast API - Échec lors du paiement de la facture : authentification "
+#~ "incorrecte."
+
+#~ msgid "INFast API - Invoice payment failure: "
+#~ msgstr "INFast API - Échec lors du paiement de la facture : "
+
+#~ msgid ""
+#~ "INFast API - Failure when deleting the draft invoice, check if \"Customer "
+#~ "ID\" and \"Customer Secret\" are valid in the INFast WooCommerce plugin "
+#~ "configuration."
+#~ msgstr ""
+#~ "INFast API - Échec lors de la suppression de la facture brouillon, "
+#~ "vérifier si \"Client ID\" et \"Client Secret\" sont valides dans la "
+#~ "configuration de l’extension INFast WooCommerce."
